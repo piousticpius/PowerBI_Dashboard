@@ -1,2 +1,2 @@
 # PowerBI_Dashboard
-Data Analysis Project
+A sample HR DashBoard
